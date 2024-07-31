@@ -12,8 +12,9 @@ const connection = mysql.createConnection({
     // password: '',
     // database: 'c237'
     host: 'db4free.net',
-    user: 'username_created_for_db4free.net',
-    password: 'password_created_for_fb4free/net'
+    user: 'jihuen',
+    password: '23026390db4free',
+    database: 'toiletwhr'
 });
 
 connection.connect((err) => {
